@@ -12,15 +12,15 @@ The present notebooks are employed for the purpose of documenting the details of
 
 ### Chapter 1 An Introduction to Quantitative Genetics
 
-#### 1.1 [Qualitative and Quantitative Traits](./Chapter1/QQTraits.md)
+#### 1.1 [Qualitative and Quantitative Traits](./Chapter1/1.1_Qualitative_and_Quantitative_Traits.md)
 
-#### 1.2 [Statistics in Quantitative Genetics](./Chapter1/Statistics_Genetics.md)
+#### 1.2 [Statistics in Quantitative Genetics](./Chapter1/1.2_Statistics_and_Genetics_in_Quantitative_Genetics.md)
 
-#### 1.3 [Organization of Part I](./Chapter1/Organization.md)
+#### 1.3 [Organization of Part I](./Chapter1/1.2_Organization_of_Part_I.md)
 
 ### Chapter 2 Mendelian Genetics
 
-#### 2.1 [Mendel's Laws and Experiments](./Chapter2/MendelExp.md)
+#### 2.1 [Mendel's Laws and Experiments](./Chapter2/2.1_Mendel's_Law_and_Experiments.md)
 
 ### Chapter 3 Basic Concept of Population Genetics
 
