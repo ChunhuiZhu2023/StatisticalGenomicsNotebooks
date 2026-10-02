@@ -20,7 +20,7 @@ The present notebooks are employed for the purpose of documenting the details of
 
 ### Chapter 2 Mendelian Genetics
 
-#### 2.1 [Mendel's Laws and Experiments](./Chapter2/2.1_Mendel's_Law_and_Experiments.md)
+#### 2.1 [Mendel's Laws and Experiments](./Chapter2/2.1 Mendel's_Laws_and_Experiments.md)
 
 ### Chapter 3 Basic Concept of Population Genetics
 
