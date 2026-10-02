@@ -1,8 +1,12 @@
 # Statistical Genomics Notebooks
 
-  <p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;Statistical genomics is an emerging interdisciplinary field encompassing statistics,genomics, bioinformatics and computer science. The rapid advances witnessed in these areas have had a profound impact on the landscape of biological research, particularly with regard to increased accessibility for gene characterization. The development of statistical models for genomic data, driven by a hypothesis-based biological framework, has yielded significant contributions to the domains of plant and animal breeding practices.</p>
+<p style="text-align: justify; text-align-last: justify; text-indent: 2em;">
+Statistical genomics is an emerging interdisciplinary field encompassing statistics,genomics, bioinformatics and computer science. The rapid advances witnessed in these areas have had a profound impact on the landscape of biological research, particularly with regard to increased accessibility for gene characterization. The development of statistical models for genomic data, driven by a hypothesis-based biological framework, has yielded significant contributions to the domains of plant and animal breeding practices.
+</p>
 
-  <p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;The present notebooks are employed for the purpose of documenting the details of the ongoing study on statistical genomics, both for the author's personal reference and for the benefit of interested parties. In pursuit of this objective, a wide array of information relevant to mathematical formula derivations and practical coding is available for consultation. Notwithstanding, the text does appear to be somewhat tedious.</p>
+<p style="text-align: justify; text-align-last: justify; text-indent: 2em;">
+The present notebooks are employed for the purpose of documenting the details of the ongoing study on statistical genomics, both for the author's personal reference and for the benefit of interested parties. In pursuit of this objective, a wide array of information relevant to mathematical formula derivations and practical coding is available for consultation. Notwithstanding, the text does appear to be somewhat tedious.
+</p>
 
 ## Part I Quantitative Genetics
 
