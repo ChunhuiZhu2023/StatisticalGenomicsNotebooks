@@ -21,6 +21,7 @@ The present notebooks are employed for the purpose of documenting the details of
 ### Chapter 2 Mendelian Genetics
 
 #### 2.1 [Mendel's Laws and Experiments](./Chapter2/2.1_Mendel's_Laws_and_Experiments.md)
+#### 2.2 [Extensions of the Mendel’s Laws](./Chapter2/2.2_Extensions_of_the_Mendel’s_Laws.md)
 
 ### Chapter 3 Basic Concept of Population Genetics
 
