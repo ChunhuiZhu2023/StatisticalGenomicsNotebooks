@@ -22,6 +22,8 @@ The present notebooks are employed for the purpose of documenting the details of
 
 #### 2.1 [Mendel's Laws and Experiments](./Chapter2/2.1_Mendel's_Laws_and_Experiments.md)
 #### 2.2 [Extensions of the Mendel’s Laws](./Chapter2/2.2_Extensions_of_the_Mendel’s_Laws.md)
+#### 2.3 [Environmental effects on Mendelian Ratios](2.3_Environmental_effects_on_Mendelian_Ratios.md)
+#### 2.4 [A Quick Look at Quantitative Traits(2.4_A_quick_look_at_quantitative_traits.md)
 
 ### Chapter 3 Basic Concept of Population Genetics
 
